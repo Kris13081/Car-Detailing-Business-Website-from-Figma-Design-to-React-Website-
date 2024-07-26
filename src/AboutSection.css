@@ -1,0 +1,27 @@
+#aboutIcon {
+    width: 50px;
+    height: 50px;
+  }
+  
+ .about-img {
+    width: 100%;
+    height: auto;
+  }
+
+  .about-container {
+     padding: 100px 200px;
+     width: 100%;
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+  }
+
+  .about-span {
+    font-weight: bold;
+    font-size: 30px;
+  }
+
+  .about-btn {
+    font-weight: bold;
+    font-size: 26px;
+  }

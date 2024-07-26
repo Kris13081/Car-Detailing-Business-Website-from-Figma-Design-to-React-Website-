@@ -1,0 +1,79 @@
+.headerContainer {
+    height: 700px;
+    width: 100%;
+    background-image: url('./assets/headerPic.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    padding-top: 30px;
+    padding-right: 2px;
+    padding-bottom: 124px;
+    padding-left: 64px;
+    color: #FFFFFF;
+  }
+  
+  
+  
+  .navItem {
+    cursor: pointer;
+  }
+  
+  .navItemText {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 27px;
+    text-transform: uppercase;
+  }
+  
+  .activity {
+    width: auto;
+    height: auto;
+  }
+  
+  .content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  .liner {
+    width: 6px;
+    height: 110px;
+    margin-bottom: 240px;
+    margin-right: 12px;
+  }
+  
+  .textContainer {
+    max-width: 800px;
+    gap: 12px;
+  }
+  
+  .title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 72px;
+    color: #FFFFFF;
+  }
+  
+  .titlePart {
+    display: block;
+    text-transform: none;
+  }
+  
+  .description {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #c2c2c2;
+    margin-top: 20px;
+  }
+  
+  .btn-outline-light:hover {
+    color: #1f1f1f;
+  }
+  

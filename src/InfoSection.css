@@ -1,0 +1,68 @@
+.section-3-faq {
+    padding: 64px;
+    background-color: #fff;
+    border-radius: 10px;
+  }
+  
+  .faq-title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 33px;
+    font-style: italic;
+    line-height: 48px;
+    color: #1f1f1f;
+    margin: 24px 0;
+  }
+  
+  .label-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+  }
+  
+  .info-title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    color: #1f1f1f;
+    margin-left: 10px;
+  }
+  
+  .faq-section {
+    padding-left: 32px;
+  }
+  
+  .car-image {
+    max-height: 600px;
+    border-radius: 10px;
+  }
+  
+  .faq-item {
+    margin-bottom: 16px;
+  }
+  
+  .faq-content {
+    cursor: pointer;
+    border-left: 5px solid #950000;
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    padding-left: 10px;
+    border-radius: 1%;
+    
+  }
+  
+  .faq-question {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 19px;
+    color: #950000;
+  }
+  
+  .faq-answer {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #666c89;
+  }

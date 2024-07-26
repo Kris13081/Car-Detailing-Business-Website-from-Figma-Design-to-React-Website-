@@ -1,0 +1,28 @@
+.section-small-4-brand-car {
+    padding-top: 100px;
+    background-color: #ffffff;
+    color: #fff;
+  }
+  
+  .brand-title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #4e4949;
+    padding: 25px 0px;
+  }
+  
+  .logo-row {
+    width: 100%;
+    display: flex;
+    overflow: hidden;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.liners {
+  width: 800px;
+}

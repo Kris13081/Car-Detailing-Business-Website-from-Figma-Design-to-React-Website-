@@ -1,0 +1,71 @@
+.feature-section {
+    background-image: url('./assets/peak.jpg');
+    background-size: cover;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    margin: 0px 0px 100px 0px;
+}
+
+.cta-text {
+    font-family: 'Poppins', sans-serif;
+    width: 50%;
+}
+
+.cta-text h1 {
+    font-weight: 600;
+    font-size: 42px;
+    line-height: 60px;
+}
+
+.cta-text .label-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.cta-text .label-container span {
+    font-weight: 200;
+    color: #ffffff8f;
+    font-size: 20px;
+    line-height: 27px;
+    margin-right: 12px;
+}
+
+.cta-button {
+    margin-top: 20px;
+    font-size: 24px;
+    margin-left: 20px;
+    color: #ffffff8f;
+}
+
+.feature-card {
+    background: rgba(0, 0, 0, 0.2);
+    padding: 48px 24px;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    text-align: center;
+    width: 220px;
+    margin:0 20px ;
+}
+
+.feature-card h3 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 1.5;
+    margin-top: 16px;
+    font-size: 24px;
+}
+
+.feature-card img {
+    width: 70px;
+    height: 70px;
+    margin-bottom: 16px;
+}
+
+.future-card-section {
+    margin-right: 40px;
+}
