@@ -30,7 +30,7 @@ function InfoSection() {
             </div>
           </div>
 
-          <img src={liner} className='mb-4 mt-4'></img>
+          <img src={liner} alt='line' className='mb-4 mt-4'></img>
 
           <div className="faq-item mb-2">
             <div className="faq-content">
@@ -43,7 +43,7 @@ function InfoSection() {
             </div>
           </div>
 
-          <img src={liner} className='mb-4 mt-4'></img>
+          <img src={liner} alt='line' className='mb-4 mt-4'></img>
 
           <div className="faq-item mb-2">
             <div className="faq-content">
@@ -55,7 +55,7 @@ function InfoSection() {
               </div>
             </div>
           </div>
-          <img src={liner} className='mb-4 mt-4'></img>
+          <img src={liner} alt='line' className='mb-4 mt-4'></img>
         </div>
       </div>
     </div>
